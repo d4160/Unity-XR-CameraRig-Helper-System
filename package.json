@@ -1,13 +1,14 @@
 {
-  "name": "unity-xr-input-helper-system",
-  "displayName": "Unity XR Input Helper System",
+  "name": "unity-xr-camera-rig-helper-system",
+  "displayName": "Unity XR CameraRig Helper System",
   "version": "0.1.0",
   "unity": "2018.3",
-  "description": "Input helper classes and methods for XR devices using the UnityEngine.XR namespace.",
+  "description": "",
   "keywords": [
     "unity",
-    "input",
-    "XR"
+    "camera rig",
+    "XR",
+    "xr simulator"
   ],
   "author": {
     "name": "d4160(Maranatha2031)"
