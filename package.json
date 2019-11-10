@@ -3,7 +3,7 @@
   "displayName": "Unity XR CameraRig Helper System",
   "version": "0.1.0",
   "unity": "2018.3",
-  "description": "",
+  "description": "CameraRig helper classes and methods for HMD based camera rigs (include a simulator base class to test without the XR devices) using the UnityEngine.XR.TrackedPoseDriver component. ",
   "keywords": [
     "unity",
     "camera rig",
